@@ -1,6 +1,3 @@
-Here’s a **professional portfolio write-up** that combines all the content you provided into a structured, interview-ready **Data Science & Machine Learning Portfolio** webpage or README. It showcases your **technical expertise**, **projects**, **business impact**, and strong value proposition for employers:
-
----
 
 # 🚀 T Karthik Varma – Data Science & ML Portfolio
 
@@ -142,7 +139,3 @@ These projects reflect a full-spectrum ML skillset from **data wrangling** to **
 Let’s build something impactful.
 📧 [mrtechkarthik@gmail.com](mailto:mrtechkarthik@gmail.com)
 🔗 [LinkedIn Profile](https://www.linkedin.com/in/mr-tikare-karthik)
-
----
-
-Would you like me to help turn this into a personal **portfolio website** using React + Tailwind or generate a PDF résumé-style version of this?
